@@ -22,7 +22,7 @@ repository               : "wangy8205165/wangy8205165.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_1.png"
+  avatar           : "profile.png"
   name             : "Henry Wang"
   pronouns         : # example: "she/her"  
   bio              : "A Machine Learning Researcher"
