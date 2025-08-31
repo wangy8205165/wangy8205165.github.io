@@ -9,6 +9,8 @@ redirect_from:
 
 I am currently pursuing a Master’s degree in [Electrical & Computer Engineering Department](https://www.ece.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/). Prior to studying at CMU, I earned my Bachelor’s degree in [Electrical Engineering](https://ecse.rpi.edu/) from [Rensselaer Polytechnic Institute](https://www.rpi.edu/). 
 
+- [Resume/CV](/files/resume.pdf)
+- Email: wanghenry0516@gmail.com
 
 **Research Interest** 
 
