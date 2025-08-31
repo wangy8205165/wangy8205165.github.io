@@ -13,7 +13,7 @@ location: "Troy, NY"
 - Graded 400+ assignments and provided constructive feedback in collaboration with PhD TAs.
 - Assisted the professor in refining the course and syllabus, particularly in lab design, based on student performance and feedback.
 
-<!-- 
+
 Heading 1
 ======
 
@@ -21,4 +21,4 @@ Heading 2
 ======
 
 Heading 3
-====== -->
+======
