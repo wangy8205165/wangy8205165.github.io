@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Transformable Inspection Robot Design and Implementation for Complex Pipeline Environment"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+excerpt: 'This paper is about developing a transformable robots that can navigate through complex pipeline environments.'
+date: 2024-04-24
+venue: 'IEEE Robotics and Automation Letters (RA-L)'
+paperurl: 'http://wangy8205165.github.io/files/conf_paper_1.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
