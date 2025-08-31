@@ -10,4 +10,6 @@ paperurl: 'http://wangy8205165.github.io/files/conf_paper_1.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Pipeline inspections are vital for reliable transmission systems, yet traditional robots struggle with aging and complex pipelines. We developed a transformable inspection robot adaptable to pipe diameters from 163–312 mm. Powered pneumatically, it combines active and passive deformation to overcome obstacles, sharp turns, steep climbs, and diameter changes. With LiDAR-based navigation, it achieves robust performance in diverse pipeline environments, addressing limitations of conventional designs.
+
+![Taxonomy of the Robot](/images/conf_paper_1_image1.png)
