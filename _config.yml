@@ -23,7 +23,7 @@ repository               : "wangy8205165/wangy8205165.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Henry Wang"
+  name             : #"Henry Wang"
   pronouns         : # example: "she/her"  
   bio              : "A Machine Learning Researcher"
   location         : "Pittsburgh"
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/yixiang-wang-22a27924b"
+  linkedin         : "yixiang-wang-22a27924b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

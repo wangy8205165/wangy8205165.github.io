@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student in Electrical & Computer Engineering Department of Carnegie Mellon University. Prior to studying at CMU, I received the bachelor's degree from Rensselaer Polytechnic Institute. 
+I am currently pursuing a Master’s degree in [Electrical & Computer Engineering Department]("https://www.ece.cmu.edu/") of [Carnegie Mellon University]("https://www.cmu.edu/"). Prior to studying at CMU, I earned my Bachelor’s degree in [Electrical Engineering]("https://ecse.rpi.edu/") from [Rensselaer Polytechnic Institute]("https://www.rpi.edu/"). 
 
 
 **Research Interest** 
 
 Education
 ======
-- Carnegie Mellon University, Pittsburgh, Pennsylvania, USA: M.S., Electrical & Computer Engineering, 2024-2026
-- Rensselaer Polytechnic Institute, Troy, New York, USA: B.S., Electrical Engineering, 2020-2024
+- **Carnegie Mellon University**, Pittsburgh, Pennsylvania, USA: M.S., Electrical & Computer Engineering, 2024-2026
+- **Rensselaer Polytechnic Institute**, Troy, New York, USA: B.S., Electrical Engineering, 2020-2024
