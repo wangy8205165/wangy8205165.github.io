@@ -10,9 +10,9 @@ redirect_from:
 I am currently pursuing a Master’s degree in [Electrical & Computer Engineering Department](https://www.ece.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/). Prior to studying at CMU, I earned my Bachelor’s degree in [Electrical Engineering](https://ecse.rpi.edu/) from [Rensselaer Polytechnic Institute](https://www.rpi.edu/). 
 
 **Research Interest** 
-I have broad interests in AI and machine learning, with a primary focus on language model, online learning, online optimization and their applications in domains such as fraud detection. I am particularly interested in developing robust learning system and optimization approaches that can can effectively handle concept drift/domain adaptation, data imbalance, and adversarial attack. At the same time, I am also exploring how efficient small language model can power multi-agent collaboration in complex task scenarios through task decomposition and action planning. I am very interested in exploring how small language, through RAG and reinforcement learning, can outperform large language model and how such models can be efficiently deployed on edge devices.
+I have broad interests in AI and machine learning, with a primary focus on language model, online learning, online optimization and their applications in domains such as fraud detection. I am particularly interested in developing robust learning system and optimization approaches that can can effectively handle concept drift/domain adaptation, data imbalance, and adversarial attack. At the same time, I am also exploring how efficient small language model can power multi-agent collaboration in complex task scenarios through task decomposition and action planning. I am very interested in exploring how small language, through RAG, reinforcement learning and context learning, can outperform large language model and how such models can be efficiently deployed on edge devices.
 
-- [Resume/CV](/files/resume.pdf)
+- [Resume/CV](/files/CV.pdf)
 - Email: wanghenry0516@gmail.com
 
 
