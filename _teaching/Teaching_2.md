@@ -8,8 +8,10 @@ date: 2025-08-25
 location: "Pittsburgh, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+- Led weekly recitations to reinforce lecture concepts and guide students in solving practical problems.
+- Held weekly office hours and provided detailed feedback while grading assignments.
+- Reported class performance to the professor after each exam and recommended strategies for improvement.
+- Assisted with course logistics, including course materials management and attendance tracking.
 <!-- Heading 1 -->
 <!-- ====== -->
 
