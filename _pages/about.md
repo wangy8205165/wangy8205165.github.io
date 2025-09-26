@@ -12,12 +12,13 @@ I am currently pursuing a Master’s degree in [Electrical & Computer Engineerin
 **Research Interest** 
 I have broad interests in AI and machine learning, with a primary focus on language model, online learning, online optimization and their applications in domains such as fraud detection. I am particularly interested in developing robust learning system and optimization approaches that can can effectively handle concept drift/domain adaptation, data imbalance, and adversarial attack. At the same time, I am also exploring how efficient small language model can power multi-agent collaboration in complex task scenarios through task decomposition and action planning. I am very interested in exploring how small language, through RAG, reinforcement learning and context learning, can outperform large language model and how such models can be efficiently deployed on edge devices.
 
-- [Resume/CV](/files/CV.pdf)
+- [CV](/files/CV.pdf)
 - Email: wanghenry0516@gmail.com
 
 
 
 Education
 ======
-- **Carnegie Mellon University**, Pittsburgh, Pennsylvania, USA: M.S., Electrical & Computer Engineering, 2024-2026
-- **Rensselaer Polytechnic Institute**, Troy, New York, USA: B.S., Electrical Engineering, 2020-2024
+- **Carnegie Mellon University**, Pittsburgh, Pennsylvania, USA: M.S., Electrical & Computer Engineering, Aug 2024- May 2026
+- **Rensselaer Polytechnic Institute**, Troy, New York, USA: B.S., Electrical Engineering, Aug 2020- May 2024
+- **The Chinese University of Hong Kong Shenzhen**, Shenzhen, Guangdong, China: Visiting Student at Robotic Institute, Feb 2023 - Aug 2023
