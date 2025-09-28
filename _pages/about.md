@@ -15,10 +15,10 @@ I have broad interests in AI and machine learning, with a primary focus on langu
 - [CV](/files/CV.pdf)
 - Email: wanghenry0516@gmail.com
 
-For my projects, please check **Project**
-For my research interests and publications, please check **Publications**
-For my teaching experience, please check **Teaching**
-For my working experience and skills, please check **Experience**
+- For my projects, please check **Project**
+- For my research interests and publications, please check **Publications**
+- For my teaching experience, please check **Teaching**
+- For my working experience and skills, please check **Experience**
 
 
 
