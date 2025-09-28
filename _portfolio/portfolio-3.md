@@ -1,19 +1,14 @@
 ---
-title: "Reimplementation of Llama-2 (Ongoing)"
-excerpt: "A transformer-decoder based large language model built by Meta<br/><img src='/images/project_3.png'>"
+title: "Transformer-Based Speech Recognition"
+excerpt: "An end-to-end speech recognition system based on transformer architecture<br/><img src='/images/project_1.png'>"
 collection: portfolio
 ---
-* Reimplemented Llama-2 mini version based on the original paper. [llama2](/files/llama_2.pdf)
-* Implemented  **Rotary Positional Embeddings**. 
-* Tested the model using small pre-trained parameters on text generation and zero-shot prompting. 
-* Implemented LoRA and fine-tuned the model for text classification on SST-5 and CFIMDB datasets. 
-* (Ongoing) Currently working on building and integrating Retrieval Augmented Generation (RAG) into Llama-2 for better QA capability.
-* (Ongoing) Preparing raw data for RAG system. 
+* Reimplemented a Transformer architecture from the original paper, including positional encoding, self-attention, cross-attention, and causal masking.
+* Trained the model on the LibriSpeech automatic speech recognition (ASR) dataset.
+* Performed ablation experiments with Weights&Biases, improving performance by 23% (Perplexity and Accuracy)over the baseline and ranking in the top 20 of a Kaggle competition.
 
 
-**Rotary Positional Encoding:**
-![RoPE](/images/project_3.3.png)
-
-**Retrieval Augmented Generation:**
-![RAG](/images/project_3.4.png)
-
+**Automatic Speech Recognition Workflow:**
+![Automatic Speech Recognition](/images/project_1.2.png)
+**Mel-Frequency Cepstrum:**
+![Mel Frequency](/images/project_1.3.png)
