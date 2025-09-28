@@ -1,6 +1,6 @@
 ---
 title: "Decentralized LLM-Powered Multi-Agent Collaboration Simulator"
-excerpt: "A simulator that allows multi-agent collaborate to complete complex tasks with framework that integrates LLM as the decision system<br/><img src='/images/project_2.png' width="400">"
+excerpt: "A simulator that allows multi-agent collaborate to complete complex tasks with framework that integrates LLM as the decision system<br/><img src='/images/project_2.png'>"
 collection: portfolio
 ---
 * Inspired by MineDojo and Voyager, we built a lightweight and custom multi-agent simulator using a structured grid environment that can run on CPU. 
