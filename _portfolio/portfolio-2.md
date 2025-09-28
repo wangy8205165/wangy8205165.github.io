@@ -24,8 +24,13 @@ For more detailed information, results, and observations, please check report: [
 
 
 **Initial Setup:**
+
 ![Initial Setup](/images/project_2.4.png)
+
 **Movement-Based Workflow:**
+
 ![Movement-Based Workflow](/images/project_2.2.png)
+
 **Simple Task Illustration:**
+
 ![Simple Task Complexity](/images/project_2.3.png)
