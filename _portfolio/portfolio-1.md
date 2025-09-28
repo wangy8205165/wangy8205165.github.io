@@ -7,5 +7,8 @@ collection: portfolio
 * Trained the model on the LibriSpeech automatic speech recognition (ASR) dataset.
 * Performed ablation experiments with Weights&Biases, improving performance by 23%  over the baseline and ranking in the top 20 of a Kaggle competition.
 
+
+**Automatic Speech Recognition Workflow:**
 ![Automatic Speech Recognition](/images/project_1.2.png)
+**Mel-Frequency Cepstrum:**
 ![Mel Frequency](/images/project_1.3.png)
