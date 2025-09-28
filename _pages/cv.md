@@ -30,9 +30,9 @@ Work experience
   
 Skills
 ======
-* Programming: Python, Pytorch, C/C++. Shell
-* ML Frameworks: Transformer, LLM, CNN, RNN, sklearn
-* DevOps Tool: HuggingFace, Github, Docker, Jira, Linux, Bamboo
+* **Programming:** Python, Pytorch, C/C++. Shell
+* **ML Frameworks:** Transformer, LLM, CNN, RNN, sklearn
+* **DevOps Tool:** HuggingFace, Github, Docker, Jira, Linux, Bamboo
 
  {% comment %} 
 Teaching

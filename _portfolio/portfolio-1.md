@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Transformer-Based Speech Recognition"
+excerpt: "An end-to-end speech recognition system based on transformer architecture<br/><img src='/images/project_1.png'>"
 collection: portfolio
 ---
+* Reimplemented a Transformer architecture from the original paper, including positional encoding, self-attention, cross-attention, and causal masking.
+* Trained the model on the LibriSpeech automatic speech recognition (ASR) dataset.
+* Performed ablation experiments with Weights&Biases, improving performance by 23%  over the baseline and ranking in the top 20 of a Kaggle competition.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![Automatic Speech Recognition](/images/project_1.2.png)
+![Mel Frequency](/images/project_1.3.png)
